@@ -30,9 +30,10 @@
 
   - `Resolution:` 1920x1080 (If your in-game resolution is different, change it)
   - `Trigger Keys:` Left Shift
+  - `Trigger Delay:` 50ms
+  - `Trigger Area:` 5.0
   - `Target Color:` Purple (RGB: 250, 100, 250)
   - `Color Tolerance:` 70
-  - `Trigger Delay:` 50ms
 </details>
 
 <details>
